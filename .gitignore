@@ -1,0 +1,3 @@
+.env
+ingest/filebeat/*
+!ingest/filebeat/.gitignore
