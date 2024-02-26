@@ -11,6 +11,10 @@ Components:
 - Elasticsearch
 - Kibana
 
+## Supported Systems
+- Linux
+- MacOS with Docker Desktop
+
 
 ## Installation
 
